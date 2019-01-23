@@ -1,0 +1,30 @@
+.body {
+	font-family: Montserrat;
+}
+.navigation {
+	background: #111;
+}
+.navigation a {
+	padding: 10px;
+	color: #eee;
+}
+section {
+	padding: 40px 0;
+}
+.main {
+	height: 600px;
+	background: #eee;
+}
+h1, h2, h3 {
+	color: #333;
+}
+p {
+	font-weight: 400;
+}
+.btn {
+	padding: 20px;
+	font-size: 18px;
+	font-weight: 500;
+	background: #000;
+	border-radius: 1.4rem;
+}
